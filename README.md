@@ -51,6 +51,10 @@ The Python libraries will be used are: pandas, numpy, matplotlib, seaborn, sklea
 
 > conda install -c anaconda sklearn
 
+## Credit
+
+This study is a part of the **Digital Project** course at the CRI (Center for Research and Interdisciplinarity) of University of Paris.
+
 ## Licensing
 
 #### Licensing of the AgeGuess Public Data Set
