@@ -42,7 +42,11 @@ Download and read the paper ***The AgeGuess database, an open online resource on
 The Python libraries will be used are: pandas, numpy, matplotlib, seaborn, sklearn.
 
 > conda install -c anaconda pandas
+
 > conda install -c anaconda numpy
+
 > conda install -c anaconda matplotlib
+
 > conda install -c anaconda seaborn
+
 > conda install -c anaconda sklearn
