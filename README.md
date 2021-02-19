@@ -8,7 +8,9 @@
 
 #### Download the data
 
-Download the latest data set: [https://www.ageguess.org/download](https://www.ageguess.org/download)
+- Download the latest data set from here: [https://www.ageguess.org/download](https://www.ageguess.org/download). The default encoding of the data set is ISO-8859-1.
+
+- Download the data set which I manipulated from this page, there are 5 csv files: ag_gamers.csv, ag_guess.csv, ag_photos.csv, ag_quality,csv, ag_report.csv. I converted the encoding of csv from ISO-8859-1 to UTF-8.
 
 #### Download the paper
 
