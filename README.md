@@ -72,3 +72,10 @@ Under the following terms:
 #### Licensing of this study
 
 As mentioned above, I must use the same licensing with the AgeGuess Public Data Set, so this study is also under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+
+## Contact
+
+Feel free to contact me if you are interested in this study.
+
+- Blog: [www.tansunit.com](https://www.tansunit.com)
+- Twitter: [@tansunit](https://twitter.com/tansunit)
