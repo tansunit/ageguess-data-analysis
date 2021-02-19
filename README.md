@@ -14,6 +14,4 @@
 
 #### Download the paper
 
-Download and read the paper *The AgeGuess database, an open online resource on chronological and perceived ages of people aged 5–100*, you will find the details of the game and the data, for example the meaning of every column.
-
-[https://www.nature.com/articles/s41597-019-0245-9](https://www.nature.com/articles/s41597-019-0245-9). 
+Download and read the paper ***The AgeGuess database, an open online resource on chronological and perceived ages of people aged 5–100***, you will find the details of the game and the data, for example the meaning of every column. [https://www.nature.com/articles/s41597-019-0245-9](https://www.nature.com/articles/s41597-019-0245-9). 
