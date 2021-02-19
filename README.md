@@ -15,3 +15,34 @@
 #### Download the paper
 
 Download and read the paper ***The AgeGuess database, an open online resource on chronological and perceived ages of people aged 5–100***, you will find the details of the game and the data, for example the meaning of every column. [https://www.nature.com/articles/s41597-019-0245-9](https://www.nature.com/articles/s41597-019-0245-9). 
+
+## Installation
+
+#### System requirements
+
+- 32-bit or 64-bit computer.
+- For Miniconda---400 MB disk space.
+- For Anaconda---Minimum 3 GB disk space to download and install.
+- Windows, macOS, or Linux.
+
+#### Install Miniconda and Jupyter Notebook
+
+1. "Miniconda is a free minimal installer for conda. It is a small, bootstrap version of Anaconda that includes only conda, Python, the packages they depend on, and a small number of other useful packages, including pip, zlib and a few others." ([via](https://docs.conda.io/en/latest/miniconda.html))
+
+- Download miniconda for your computer from here: [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
+
+2. "The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text."([via]()) 
+
+- Install Jupyter Notebook with conda after installing miniconda.
+
+> conda install -c conda-forge jupyterlab
+
+#### Install Python libraries
+
+The Python libraries will be used are: pandas, numpy, matplotlib, seaborn, sklearn.
+
+> conda install -c anaconda pandas
+> conda install -c anaconda numpy
+> conda install -c anaconda matplotlib
+> conda install -c anaconda seaborn
+> conda install -c anaconda sklearn
